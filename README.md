@@ -57,7 +57,7 @@ Before you begin, ensure you have installed:
 
    ```bash
    git clone https://github.com/husseinfarqad/mern-ecommerce-api.git
-   cd ecommerce-api
+   cd mern-ecommerce-api
    ```
 
 2. Install dependencies:
