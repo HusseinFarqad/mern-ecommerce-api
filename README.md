@@ -259,26 +259,6 @@ Error responses follow this format:
 }
 ```
 
-## Development
-
-### Running Tests
-
-```bash
-npm test
-```
-
-### Linting
-
-```bash
-npm run lint
-```
-
-### Format Code
-
-```bash
-npm run format
-```
-
 ## Contributing
 
 1. Fork the repository
