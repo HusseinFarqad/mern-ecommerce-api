@@ -294,4 +294,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 Hussein Farqad - husseinfarqued@gmail.com
-Project Link: [https://github.com/husseinfarqad/ecommerce-api](https://github.com/husseinfarqad/mern-ecommerce-api)
+Project Link: [https://github.com/husseinfarqad/mern-ecommerce-api](https://github.com/husseinfarqad/mern-ecommerce-api)
